@@ -26,8 +26,6 @@
 
 # Topology
 
-> Insert your topology image here.
-
 ![Network Topology](images/topology.png)
 
 ---
@@ -194,7 +192,7 @@ Building configuration...
 
 | Source | Destination | Result |
 |---------|-------------|--------|
-| PC Admin | Printer Admin | ✅ Success |
+| PC Admin | Printer Admin | ✅ Success | [Network Topology](images/topology.png)
 | PC CS | Printer CS | ✅ Success |
 | PC Finance | Printer Finance | ✅ Success |
 | Smartphone | Access Point | ✅ Connected |
