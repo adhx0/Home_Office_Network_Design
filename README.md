@@ -192,12 +192,12 @@ Building configuration...
 
 | Source | Destination | Result | screenshoot |
 |---------|-------------|--------|-------------|
-| VLAN 10 | VLAN 20 | ✅ Success | ![vlan 10](images/vlan10-20) |
-| VLAN 10 | VLAN 30 | ✅ Success | ![vlan 10](images/vlan10-30) |
-| VLAN 20 | VLAN 10 | ✅ Success | ![vlan 20](images/vlan20-10) |
-| VLAN 20 | VLAN 30 | ✅ Success | ![vlan 20](images/vlan20-30) |
-| VLAN 30 | VLAN 10 | ✅ Success | ![vlan 30](images/vlan30-10) |
-| VLAN 30 | VLAN 20 | ✅ Success | ![vlan 30](images/vlan30-20) |
+| VLAN 10 | VLAN 20 | ✅ Success | ![vlan 10](images/vlan10-20.png) |
+| VLAN 10 | VLAN 30 | ✅ Success | ![vlan 10](images/vlan10-30.png) |
+| VLAN 20 | VLAN 10 | ✅ Success | ![vlan 20](images/vlan20-10.png) |
+| VLAN 20 | VLAN 30 | ✅ Success | ![vlan 20](images/vlan20-30.png) |
+| VLAN 30 | VLAN 10 | ✅ Success | ![vlan 30](images/vlan30-10.png) |
+| VLAN 30 | VLAN 20 | ✅ Success | ![vlan 30](images/vlan30-20.png) |
 
 ---
 
