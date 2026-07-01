@@ -190,33 +190,14 @@ Building configuration...
 
 # Test Connection
 
-| Source | Destination | Result |
-|---------|-------------|--------|
-| PC Admin | Printer Admin | ✅ Success | [Network Topology](images/topology.png)
-| PC CS | Printer CS | ✅ Success |
-| PC Finance | Printer Finance | ✅ Success |
-| Smartphone | Access Point | ✅ Connected |
-| Cross VLAN Ping | Successful | ✅ |
-
----
-
-# Project Screenshot
-
-## Network Topology
-
-![Topology](images/topology.png)
-
-## Router Configuration
-
-![Router](images/router-config.png)
-
-## Switch Configuration
-
-![Switch](images/switch-config.png)
-
-## Successful Ping Test
-
-![Ping Test](images/ping-test.png)
+| Source | Destination | Result | screenshoot |
+|---------|-------------|--------|-------------|
+| VLAN 10 | VLAN 20 | ✅ Success | ![vlan 10](images/vlan10-20) |
+| VLAN 10 | VLAN 30 | ✅ Success | ![vlan 10](images/vlan10-30) |
+| VLAN 20 | VLAN 10 | ✅ Success | ![vlan 20](images/vlan20-10) |
+| VLAN 20 | VLAN 30 | ✅ Success | ![vlan 20](images/vlan20-30) |
+| VLAN 30 | VLAN 10 | ✅ Success | ![vlan 30](images/vlan30-10) |
+| VLAN 30 | VLAN 20 | ✅ Success | ![vlan 30](images/vlan30-20) |
 
 ---
 
