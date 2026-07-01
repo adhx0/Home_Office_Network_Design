@@ -201,6 +201,7 @@ Building configuration...
 
 ---
 
-# Author
 
-**Adhi Nugroho**
+## © Copyright
+
+© 2026 Adhi Nugroho. All Rights Reserved.
